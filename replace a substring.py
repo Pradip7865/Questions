@@ -1,0 +1,5 @@
+string1=str(input("Enter any string "))
+str1=str(input("Enter What you want to replace "))
+str2=str(input("select the replacing string "))
+string1=string1.replace(str1,str2)
+print(string1)
